@@ -25,5 +25,5 @@
  
 并将音乐文件及专辑图片存储于对应文件夹即可自定义播放列表。
 
-demo链接<a href="http://zyjoey.com/demo/mp3/">demo</a>
+<a href="http://zyjoey.com/demo/mp3/">demo</a>
 
